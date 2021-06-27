@@ -1,0 +1,2499 @@
+D:\CatanAI\Temp\bin\Debug\Assembly-CSharp.dll
+D:\CatanAI\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\CatanAI\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\CatanAI\Temp\bin\Debug\mscorlib.dll
+D:\CatanAI\Temp\bin\Debug\netstandard.dll
+D:\CatanAI\Temp\bin\Debug\System.AppContext.dll
+D:\CatanAI\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\CatanAI\Temp\bin\Debug\System.Collections.dll
+D:\CatanAI\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\CatanAI\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\CatanAI\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\CatanAI\Temp\bin\Debug\System.ComponentModel.dll
+D:\CatanAI\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\CatanAI\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\CatanAI\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\CatanAI\Temp\bin\Debug\System.Console.dll
+D:\CatanAI\Temp\bin\Debug\System.Core.dll
+D:\CatanAI\Temp\bin\Debug\System.Data.Common.dll
+D:\CatanAI\Temp\bin\Debug\System.Data.dll
+D:\CatanAI\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\CatanAI\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\CatanAI\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\CatanAI\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\CatanAI\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\CatanAI\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\CatanAI\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\CatanAI\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\CatanAI\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\CatanAI\Temp\bin\Debug\System.dll
+D:\CatanAI\Temp\bin\Debug\System.Drawing.dll
+D:\CatanAI\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\CatanAI\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\CatanAI\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\CatanAI\Temp\bin\Debug\System.Globalization.dll
+D:\CatanAI\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\CatanAI\Temp\bin\Debug\System.IO.Compression.dll
+D:\CatanAI\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\CatanAI\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\CatanAI\Temp\bin\Debug\System.IO.dll
+D:\CatanAI\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\CatanAI\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\CatanAI\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\CatanAI\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\CatanAI\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\CatanAI\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\CatanAI\Temp\bin\Debug\System.IO.Pipes.dll
+D:\CatanAI\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\CatanAI\Temp\bin\Debug\System.Linq.dll
+D:\CatanAI\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\CatanAI\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\CatanAI\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\CatanAI\Temp\bin\Debug\System.Net.dll
+D:\CatanAI\Temp\bin\Debug\System.Net.Http.dll
+D:\CatanAI\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\CatanAI\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\CatanAI\Temp\bin\Debug\System.Net.Ping.dll
+D:\CatanAI\Temp\bin\Debug\System.Net.Primitives.dll
+D:\CatanAI\Temp\bin\Debug\System.Net.Requests.dll
+D:\CatanAI\Temp\bin\Debug\System.Net.Security.dll
+D:\CatanAI\Temp\bin\Debug\System.Net.Sockets.dll
+D:\CatanAI\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\CatanAI\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\CatanAI\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\CatanAI\Temp\bin\Debug\System.Numerics.dll
+D:\CatanAI\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\CatanAI\Temp\bin\Debug\System.ObjectModel.dll
+D:\CatanAI\Temp\bin\Debug\System.Reflection.dll
+D:\CatanAI\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\CatanAI\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\CatanAI\Temp\bin\Debug\System.Resources.Reader.dll
+D:\CatanAI\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\CatanAI\Temp\bin\Debug\System.Resources.Writer.dll
+D:\CatanAI\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\CatanAI\Temp\bin\Debug\System.Runtime.dll
+D:\CatanAI\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\CatanAI\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\CatanAI\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\CatanAI\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CatanAI\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\CatanAI\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\CatanAI\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\CatanAI\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\CatanAI\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\CatanAI\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\CatanAI\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\CatanAI\Temp\bin\Debug\System.Security.Claims.dll
+D:\CatanAI\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\CatanAI\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\CatanAI\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\CatanAI\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\CatanAI\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\CatanAI\Temp\bin\Debug\System.Security.Principal.dll
+D:\CatanAI\Temp\bin\Debug\System.Security.SecureString.dll
+D:\CatanAI\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\CatanAI\Temp\bin\Debug\System.Text.Encoding.dll
+D:\CatanAI\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\CatanAI\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\CatanAI\Temp\bin\Debug\System.Threading.dll
+D:\CatanAI\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\CatanAI\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\CatanAI\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\CatanAI\Temp\bin\Debug\System.Threading.Thread.dll
+D:\CatanAI\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\CatanAI\Temp\bin\Debug\System.Threading.Timer.dll
+D:\CatanAI\Temp\bin\Debug\System.Transactions.dll
+D:\CatanAI\Temp\bin\Debug\System.ValueTuple.dll
+D:\CatanAI\Temp\bin\Debug\System.Web.dll
+D:\CatanAI\Temp\bin\Debug\System.Windows.dll
+D:\CatanAI\Temp\bin\Debug\System.Xml.dll
+D:\CatanAI\Temp\bin\Debug\System.Xml.Linq.dll
+D:\CatanAI\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\CatanAI\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\CatanAI\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\CatanAI\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\CatanAI\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\CatanAI\Temp\bin\Debug\System.Xml.XPath.dll
+D:\CatanAI\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\CatanAI\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+D:\CatanAI\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+D:\CatanAI\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\CatanAI\Temp\bin\Debug\Unity.Rider.Editor.dll
+D:\CatanAI\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\CatanAI\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\CatanAI\Temp\bin\Debug\Unity.Timeline.dll
+D:\CatanAI\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\CatanAI\Temp\bin\Debug\Unity.VSCode.Editor.dll
+D:\CatanAI\Temp\bin\Debug\UnityEditor.dll
+D:\CatanAI\Temp\bin\Debug\UnityEditor.UI.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UI.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\CatanAI\Temp\bin\Debug\Unity.Cecil.dll
+D:\CatanAI\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\CatanAI\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\CatanAI\Temp\bin\Debug\ExCSS.Unity.dll
+D:\CatanAI\Temp\bin\Debug\Unity.CecilTools.dll
+D:\CatanAI\Temp\bin\Debug\UnityEngine.xml
+D:\CatanAI\Temp\bin\Debug\UnityEditor.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\CatanAI\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\CatanAI\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\CatanAI\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\CatanAI\obj\Debug\Assembly-CSharp.dll
+D:\CatanAI\obj\Debug\Assembly-CSharp.pdb
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Assembly-CSharp.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\mscorlib.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\netstandard.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.AppContext.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Collections.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.ComponentModel.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Console.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Core.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Data.Common.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Data.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Drawing.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Globalization.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.IO.Compression.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.IO.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.IO.Pipes.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Linq.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Net.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Net.Http.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Net.Ping.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Net.Primitives.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Net.Requests.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Net.Security.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Net.Sockets.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Numerics.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.ObjectModel.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Reflection.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Resources.Reader.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Resources.Writer.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Runtime.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Security.Claims.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Security.Principal.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Security.SecureString.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Text.Encoding.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Threading.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Threading.Thread.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Threading.Timer.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Transactions.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.ValueTuple.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Web.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Windows.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Xml.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Xml.Linq.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Xml.XPath.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.Rider.Editor.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.Timeline.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.VSCode.Editor.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEditor.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEditor.UI.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UI.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.Cecil.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\ExCSS.Unity.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.CecilTools.dll
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEditor.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\CatanAI\‏‏V 0.0.2\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\CatanAI\‏‏V 0.0.2\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\CatanAI\‏‏V 0.0.2\obj\Debug\Assembly-CSharp.dll
+D:\CatanAI\‏‏V 0.0.2\obj\Debug\Assembly-CSharp.pdb
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEngine.UI.pdb
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.Timeline.pdb
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.Rider.Editor.pdb
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\CatanAI\‏‏V 0.0.2\Temp\bin\Debug\UnityEditor.UI.pdb
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Assembly-CSharp.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\mscorlib.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\netstandard.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.AppContext.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Collections.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.ComponentModel.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Console.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Core.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Data.Common.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Data.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Drawing.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Globalization.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.IO.Compression.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.IO.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.IO.Pipes.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Linq.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Net.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Net.Http.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Net.Ping.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Net.Primitives.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Net.Requests.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Net.Security.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Net.Sockets.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Numerics.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.ObjectModel.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Reflection.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Resources.Reader.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Resources.Writer.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Runtime.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Security.Claims.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Security.Principal.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Security.SecureString.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Text.Encoding.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Threading.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Threading.Thread.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Threading.Timer.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Transactions.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.ValueTuple.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Web.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Windows.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Xml.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Xml.Linq.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Xml.XPath.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.Rider.Editor.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.Timeline.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.VSCode.Editor.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEditor.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEditor.UI.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UI.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.Cecil.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\ExCSS.Unity.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.CecilTools.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEditor.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UI.pdb
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.Timeline.pdb
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.Rider.Editor.pdb
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEditor.UI.pdb
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\CatanAI\‏‏‏‏V 0.1.0\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\CatanAI\‏‏‏‏V 0.1.0\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\CatanAI\‏‏‏‏V 0.1.0\obj\Debug\Assembly-CSharp.dll
+D:\CatanAI\‏‏‏‏V 0.1.0\obj\Debug\Assembly-CSharp.pdb
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\obj\Debug\Assembly-CSharp.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\obj\Debug\Assembly-CSharp.pdb
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Assembly-CSharp.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\mscorlib.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\netstandard.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.AppContext.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Collections.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.ComponentModel.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Console.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Core.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Data.Common.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Data.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Drawing.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Globalization.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.IO.Compression.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.IO.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.IO.Pipes.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Linq.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Net.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Net.Http.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Net.Ping.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Net.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Net.Requests.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Net.Security.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Net.Sockets.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Numerics.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.ObjectModel.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Reflection.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Resources.Reader.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Resources.Writer.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Runtime.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Security.Claims.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Security.Principal.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Security.SecureString.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Text.Encoding.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Threading.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Threading.Thread.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Threading.Timer.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Transactions.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.ValueTuple.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Web.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Windows.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Xml.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Xml.Linq.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Xml.XPath.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.Rider.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.Timeline.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.VSCode.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEditor.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEditor.UI.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UI.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.Cecil.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\ExCSS.Unity.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.CecilTools.dll
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEditor.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UI.pdb
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.Timeline.pdb
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.Rider.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEditor.UI.pdb
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\CatanAI\‏‏‏‏‏‏V 0.1.1\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Assembly-CSharp.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\mscorlib.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\netstandard.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.AppContext.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Collections.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.ComponentModel.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Console.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Core.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Data.Common.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Data.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Drawing.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Globalization.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.IO.Compression.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.IO.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.IO.Pipes.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Linq.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Net.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Net.Http.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Net.Ping.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Net.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Net.Requests.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Net.Security.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Net.Sockets.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Numerics.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.ObjectModel.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Reflection.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Resources.Reader.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Resources.Writer.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Runtime.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Security.Claims.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Security.Principal.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Security.SecureString.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Text.Encoding.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Threading.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Threading.Thread.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Threading.Timer.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Transactions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.ValueTuple.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Web.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Windows.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Xml.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Xml.Linq.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Xml.XPath.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.Rider.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.Timeline.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.VSCode.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEditor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEditor.UI.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UI.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.Cecil.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\ExCSS.Unity.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.CecilTools.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEditor.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UI.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.Timeline.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.Rider.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEditor.UI.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\obj\Debug\Assembly-CSharp.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\obj\Debug\Assembly-CSharp.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏V 0.1.2\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\obj\Debug\Assembly-CSharp.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\obj\Debug\Assembly-CSharp.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Assembly-CSharp.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\mscorlib.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\netstandard.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.AppContext.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Collections.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.ComponentModel.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Console.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Core.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Data.Common.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Data.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Drawing.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Globalization.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.IO.Compression.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.IO.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.IO.Pipes.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Linq.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Net.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Net.Http.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Net.Ping.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Net.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Net.Requests.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Net.Security.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Net.Sockets.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Numerics.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.ObjectModel.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Reflection.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Resources.Reader.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Resources.Writer.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Runtime.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Security.Claims.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Security.Principal.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Security.SecureString.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Text.Encoding.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Threading.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Threading.Thread.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Threading.Timer.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Transactions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.ValueTuple.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Web.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Windows.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Xml.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Xml.Linq.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Xml.XPath.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.Rider.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.Timeline.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.VSCode.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEditor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEditor.UI.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UI.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.Cecil.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\ExCSS.Unity.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.CecilTools.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEditor.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UI.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.Timeline.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.Rider.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEditor.UI.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏V 0.1.3\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Assembly-CSharp.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\mscorlib.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\netstandard.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.AppContext.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Collections.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.ComponentModel.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Console.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Core.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Data.Common.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Data.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Drawing.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Globalization.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.IO.Compression.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.IO.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.IO.Pipes.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Linq.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Net.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Net.Http.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Net.Ping.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Net.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Net.Requests.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Net.Security.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Net.Sockets.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Numerics.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.ObjectModel.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Reflection.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Resources.Reader.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Resources.Writer.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Runtime.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Security.Claims.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Security.Principal.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Security.SecureString.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Text.Encoding.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Threading.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Threading.Thread.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Threading.Timer.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Transactions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.ValueTuple.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Web.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Windows.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Xml.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Xml.Linq.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Xml.XPath.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.Rider.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.Timeline.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.VSCode.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEditor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEditor.UI.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UI.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.Cecil.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\ExCSS.Unity.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.CecilTools.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEditor.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UI.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.Timeline.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.Rider.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEditor.UI.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\obj\Debug\Assembly-CSharp.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.4\obj\Debug\Assembly-CSharp.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.5\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.5\obj\Debug\Assembly-CSharp.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.5\obj\Debug\Assembly-CSharp.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\obj\Debug\Assembly-CSharp.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\obj\Debug\Assembly-CSharp.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Assembly-CSharp.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\IronPython.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\IronPython.Modules.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\IronPython.SQLite.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Microsoft.Dynamic.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Microsoft.Scripting.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Mono.Posix.NETStandard.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\mscorlib.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\netstandard.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.AppContext.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.CodeDom.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Collections.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.ComponentModel.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Console.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Core.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Data.Common.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Data.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Globalization.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.IO.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.IO.Pipes.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Linq.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Net.Http.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Net.Ping.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Net.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Net.Requests.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Net.Security.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Net.Sockets.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Numerics.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.ObjectModel.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Reflection.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Resources.Reader.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Resources.Writer.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Runtime.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Security.AccessControl.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Security.Claims.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Security.Permissions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Security.Principal.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Security.Principal.Windows.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Security.SecureString.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Text.Encoding.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Threading.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Threading.Thread.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Threading.Timer.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.ValueTuple.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Xml.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Xml.Linq.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Xml.XPath.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.Rider.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.Timeline.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.VSCode.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEditor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEditor.UI.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UI.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.Cecil.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\ExCSS.Unity.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.CecilTools.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEditor.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UI.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.Timeline.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.Rider.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEditor.UI.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\IronPython.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\IronPython.SQLite.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Microsoft.Dynamic.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Microsoft.Scripting.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Boo.Lang.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Microsoft.CSharp.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Net.Http.Rtc.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Reflection.Emit.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.ServiceModel.Http.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\System.ServiceModel.Security.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityScript.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\UnityScript.Lang.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.6\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Assembly-CSharp.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Boo.Lang.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\IronPython.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\IronPython.Modules.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\IronPython.SQLite.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Microsoft.CSharp.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Microsoft.Dynamic.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Microsoft.Scripting.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Mono.Posix.NETStandard.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\mscorlib.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\netstandard.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.AppContext.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.CodeDom.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Collections.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.ComponentModel.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Console.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Core.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Data.Common.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Data.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Globalization.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.IO.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.IO.Pipes.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Linq.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Net.Http.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Net.Http.Rtc.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Net.Ping.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Net.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Net.Requests.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Net.Security.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Net.Sockets.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Numerics.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.ObjectModel.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Reflection.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Reflection.Emit.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Resources.Reader.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Resources.Writer.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Runtime.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Security.AccessControl.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Security.Claims.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Security.Permissions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Security.Principal.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Security.Principal.Windows.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Security.SecureString.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.ServiceModel.Http.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.ServiceModel.Security.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Text.Encoding.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Threading.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Threading.Thread.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Threading.Timer.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.ValueTuple.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Xml.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Xml.Linq.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Xml.XPath.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.Rider.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.Timeline.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.VSCode.Editor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEditor.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEditor.UI.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UI.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityScript.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityScript.Lang.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.Cecil.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\ExCSS.Unity.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.CecilTools.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEditor.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UI.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.Timeline.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.Rider.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEditor.UI.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\IronPython.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\IronPython.SQLite.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Microsoft.Dynamic.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\Microsoft.Scripting.xml
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\obj\Debug\Assembly-CSharp.dll
+D:\CatanAI\‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏V 0.1.7\obj\Debug\Assembly-CSharp.pdb
